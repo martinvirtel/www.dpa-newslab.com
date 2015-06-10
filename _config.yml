@@ -15,21 +15,22 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
-source_link: "https://github.com/t413/SinglePaged"
+title:       "dpa newslab"
+keywords:    "news, development, research, apps, nitf"
+description: "dpa newslab is the technology scouting and special ops (and dev) team of dpa infocom, the technology arm of german news agency dpa"
+source_link: "https://github.com/dpanewslab/www.dpa-newslab.com"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: # UA-49607422-1 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
+### tetrad based on #b0d699 http://paletton.com/#uid=72E0N0k98uI23QG5bEDdOpYiYln  
 colors:
   black:     '#111111'
   white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  blue:      '#708e9a'
+  green:     '#9Fd699'
+  purple:    '#E1A1B0'
+  orange:    '#f5d4af'
+  turquoise: '#A0b4bd'
